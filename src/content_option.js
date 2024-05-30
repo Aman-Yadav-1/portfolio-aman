@@ -8,7 +8,7 @@ import weather from './assets/images/weather.png'
 const logotext = "AMAN";
 const meta = {
     title: "Aman Yadav",
-    description: "I’m Aman Yadav, a Software Engineer with expertise in full-stack development, currently working in Bangalore.",
+    description: "Hi, I’m Aman Yadav, a Software Engineer with expertise in full-stack development, currently working in Bangalore.",
 };
 
 const introdata = {
@@ -18,7 +18,7 @@ const introdata = {
         second: "I build scalable and responsive web applications",
         third: "Design Thinking Innovator",
     },
-    description: "Experienced Software Engineer with expertise in Java and JavaScript. Specializes in project development using React, Redux, Node.js, MongoDB, PostgreSQL, MSSQL, Bootstrap, andMaterial UI. Aims to innovate and contribute to impactful projects.",
+    description: "Fluent in HTML5/CSS3, JavaScript, adept in crafting dynamic solutions with React, Express.js, Node.js, and MongoDB. Driven to innovate and deliver impactful tech.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
