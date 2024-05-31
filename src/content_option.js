@@ -4,6 +4,8 @@ import quoticly from './assets/images/quoticly.png'
 import netlive from './assets/images/netlive.png'
 import virtual from './assets/images/virtual.png'
 import weather from './assets/images/weather.png'
+import vibeharbor from './assets/images/VibeHarbor.png'
+
 
 const logotext = "AMAN";
 const meta = {
@@ -90,6 +92,10 @@ const services = [
 
 
 const dataportfolio = [{
+        img: vibeharbor,
+        description: "Discover the perfect sound with VibeHarbor—your ultimate destination for high-quality headphones.",
+        link: "https://vibe-harbor.vercel.app/",
+    },{
         img: pokedex,
         description: "Explore the Pokemon universe with ease.",
         link: "https://pokedex-aman.vercel.app/",
