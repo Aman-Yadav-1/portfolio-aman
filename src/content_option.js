@@ -4,7 +4,7 @@ import quoticly from './assets/images/quoticly.png'
 import netlive from './assets/images/netlive.png'
 import virtual from './assets/images/virtual.png'
 import weather from './assets/images/weather.png'
-import vibeharbor from './assets/images/viberharbor.png'
+import vibeharbor from './assets/images/vibeharbor.png'
 
 
 const logotext = "AMAN";
