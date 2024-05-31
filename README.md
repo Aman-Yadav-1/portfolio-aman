@@ -46,7 +46,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 Feel free to reach out to me if you have any questions or suggestions:
 
-- Email: your-email@example.com
+- Email: amxn.yadav@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-ay/)
 - Twitter: [@YourTwitterHandle](https://x.com/amanyadav_ay69)
 
